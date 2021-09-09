@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Course Testing 2021</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZ_CLD400_20TOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZ_CLD400_20</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>Z_CLD400_20</FUNCNAME>
+     <SHORT_TEXT>Course Testing 2021</SHORT_TEXT>
+    </item>
+    <item>
+     <FUNCNAME>Z_CLD400_GET_AIRLINES_20</FUNCNAME>
+     <SHORT_TEXT>CT - GET AIRLINES</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
